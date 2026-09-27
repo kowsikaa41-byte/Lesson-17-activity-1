@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+}
+
+.container {
+    padding-top: 30px;
+}
+
+h1 {
+    color: #b34b3c;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #b34b3c;
+    margin-top: 60px;
+    margin-bottom: 15px;
+}
+
+p {
+    color: #333;
+}
+
+.btn {
+    margin-right: 5px;
+}
+
+.progress {
+    height: 18px;
+    margin-top: 5px;
+}
